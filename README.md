@@ -30,7 +30,7 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 - [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish)
 - [Joker](https://github.com/fisherman/joker)
 - [Metro](https://github.com/fisherman/metro)
-- [Pure](https://github.com/rafaelrinaldi/pure)
+- [Pure](https://github.com/rafaelrinaldi/pure) - Pretty, minimal and fast [ZSH prompt port](https://github.com/sindresorhus/pure) theme by [sindresorhus](https://github.com/sindresorhus)
 - [Sektor](https://github.com/fisherman/sektor)
 - [Shellder](https://github.com/simnalamburt/shellder)
 - [Stark](https://github.com/fisherman/stark)
